@@ -58,11 +58,11 @@ public class Food {
 	}
 
 	public double getFats(){
-		return fats;
+		return fat;
 	}
 
 	public void setFats(double fats){
-		this.fats = fats;
+		this.fat = fat;
 	}
 
 	public double getCarbohydrates(){
@@ -77,9 +77,9 @@ public class Food {
 		return protein;
 	}
 
-	@Override
+	
 	 public static void main (String[] args){
-	 	Systetem.out.println(String.format("id=" this.getId()) + "\n");
+	 	System.out.println(String.format("id=" + this.getId()) + "\n");
 
 
 	 }
