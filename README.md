@@ -7,4 +7,4 @@ A command line application that allows users to keep track of the meals they eat
 
 
 ## Demo
-![CLI Screenshot](https://github.com/Starseed/Java-CLI-Meal/blob/master/Meal-Tracker/img/meal.jpeg)
+![CLI Screenshot](https://github.com/Starseed333/Java-CLI-Meal/blob/master/Meal-Tracker/img/meal.jpeg)
